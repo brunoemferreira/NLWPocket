@@ -3,7 +3,7 @@
 *Início* : 09/09/2024 - *Fim* : 12/09/2024
 
 Onde Estou ? 
-Aula 01 - 
+Aula 01 - 1:09:45
 
 ## Descrição do Projeto
 
