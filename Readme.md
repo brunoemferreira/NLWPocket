@@ -34,6 +34,7 @@ Aula 02 - 38:23
 * [Vite]()
 * [React]()
 * [TypeScript](https://www.npmjs.com/package/typescript)
+* [TailWind]()
 
 
 ## Comandos
