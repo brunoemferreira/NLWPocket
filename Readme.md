@@ -3,7 +3,7 @@
 *Início* : 09/09/2024 - *Fim* : 12/09/2024
 
 Onde Estou ? 
-Aula 02 - 36:05
+Aula 02 - 38:23
 
 ## Descrição do Projeto
 
@@ -19,7 +19,7 @@ Aula 02 - 36:05
 * [Drizzle-ORM](https://www.npmjs.com/package/drizzle-orm)
 * [Drizzle-Kit](https://www.npmjs.com/package/drizzle-kit)
 * [ZOD](https://www.npmjs.com/package/zod)
-* [Postgres](https://www.npmjs.com/package/postgres) - Driver do PostGreSQL 
+* [Postgres](https://www.npmjs.com/package/postgres) - Driver do PostgreSQL 
 * [ParallelDrive](https://www.npmjs.com/package/@paralleldrive/cuid2) - Biblioteca de Geração de UUID
 * [DayJS]() - Biblioteca de Datas 
 * []() - Cors
@@ -31,7 +31,9 @@ Aula 02 - 36:05
 * [PostgreSQL]() - Banco de Dados Relacional
 
 ## FrontEnd
-* []()
+* [Vite]()
+* [React]()
+* [TypeScript](https://www.npmjs.com/package/typescript)
 
 
 ## Comandos
@@ -58,12 +60,19 @@ $ npx drizzle-kit migrate
 $ npx drizzle-kit studio
 
 ```
-### 🖥️ Projeto 
+### 🖥️ Projeto BackEnd
 
 ```shell
 # Roda o projeto em Dev
 $ npm run dev
 ```
+
+### Projeto FrontEnd
+```shell
+#
+$ npm create vite@latest
+```
+
 
 ### 💡 Outros Comandos
 
